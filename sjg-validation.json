@@ -3,6 +3,6 @@
 "ticker":"TKY",
 "discordId":"668407365858754572",
 "pool-list":"true",
-"poolMetaData":"https://github.com/TAKO3Takoyaki/TAKOYAKI_StakePooL/blob/main/poolMetaData.json",
-"validation":"https://github.com/TAKO3Takoyaki/TAKOYAKI_StakePooL/blob/main/sjg-validation.json"
+"poolMetaData":"https://raw.githubusercontent.com/TAKO3Takoyaki/TAKOYAKI_StakePooL/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/TAKO3Takoyaki/TAKOYAKI_StakePooL/main/sjg-validation.json"
 }
